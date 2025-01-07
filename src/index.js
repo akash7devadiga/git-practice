@@ -1,4 +1,4 @@
 console.log('index.js');
-console.log('Version4');
+console.log('Version6');
 
 
